@@ -352,7 +352,7 @@
         SubmitResults();
         if (score <= 49) return '不给我刀鸽面子？';
         if (score <= 99) return '小黑粉';
-        if (score <= 149) return '刀鸽给你咬打火机';
+        if (score <= 149) return '贵物';
         if (score <= 199) return '您';
         return '人？';
     }
